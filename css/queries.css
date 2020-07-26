@@ -1,0 +1,300 @@
+@media screen and (max-width: 1199px) and (min-width: 992px){
+    .time-leftup span{
+        margin-left: 10px;
+        font-size: 13px;
+    }
+    .header__text{
+        padding: 4rem 0px 1;
+    }
+    .popup-inner{
+        width: 80%;
+        height: 95%;
+    }
+    .sekil{
+        width: 340px;
+    }
+    .box1,
+    .box2{
+        margin-left: 20px;
+    }
+    .sual{
+        left: 55%;
+    }
+}
+@media screen and (max-width: 991px) and (min-width: 768px){
+    .time-leftup span{
+        display: none;
+        font-size: 15px;
+       
+    }
+    .time-leftup:hover span{
+       display: block;
+    }
+    .time-leftup br{
+        display: none;
+    }
+    .time-leftup{
+        margin: 0px 20px;
+        cursor: pointer;
+    }
+    .header__text{
+        padding: 1rem 0px 1 !important;
+    }
+    .popup-inner{
+        width: 80%;
+        height: 93%;
+    }
+    .popup-right {
+        margin: 2% 0px;
+    }
+    .hwt h5 {
+        font-size: 17px;
+    }
+    .sekil{
+        width: 340px;
+    }
+    .box1,
+    .box2{
+        margin-left: 50px;
+    }
+    .sual{
+        left: 65%;
+    }
+    .store-box{
+        width: 45%;
+    }
+}
+@media screen and (max-width: 767px) and (min-width: 576px){
+    .time-leftup{
+        display: none;
+    }
+    .popup-right {
+        display: none;
+    }
+    .popup-inner{
+        width: 70%;
+    }
+    .calculate_section{
+        height:45em;
+    }
+    .box1,
+    .box2{
+        margin-left: 0px;
+    }
+    .sual{
+        left: 50%;
+    }
+    .faq_box{
+        width: 100%;
+    }
+    .store-box{
+        width: 45%;
+    }
+    .store-button{
+        margin-right: 0px;
+    }
+}
+@media screen and (max-width: 575px) and (min-width: 500px){
+    .time-leftup{
+        display: none;
+    } 
+     .popup-right {
+        display: none;
+    }
+    .popup-inner{
+        width: 70%;
+    }
+    .calculate_section{
+        height:45em;
+    }
+    .box1,
+    .box2{
+        width: 400px;
+        margin-left: 10%;
+    }
+    .sual{
+        left: 60%;
+    }
+    .faq_box{
+        width: 100%;
+    }
+    .store-mobile{
+        display: none;
+    }
+    .store-box{
+        width: 45%;
+    }
+    .store-button{
+        margin-right: 0px;
+        width: 105px;
+    }
+}
+@media screen and (max-width: 499px) and (min-width: 426px){
+    .time-leftup{
+        display: none;
+    } 
+    .popup-right {
+        display: none;
+    }
+    .popup-inner{
+        width: 70%;
+        height: 78%
+    }
+    .header__text{
+        padding: 1rem 0 4rem;
+    }
+    .calculate_section{
+        height:43em;
+    }
+    .box1,
+    .box2{
+        width: 400px;
+        margin-left: 0%;
+    }
+    .sual{
+        left: 60%;
+    }
+    .faq_box{
+        width: 100%;
+    }
+    .store-mobile{
+        display: none;
+    }
+    .store-box{
+        width: 45%;
+    }
+    .store-button{
+        margin-right: 0px;
+        width: 105px;
+    }
+}
+@media screen and (max-width: 425px) and (min-width: 376px){
+    .time-leftup{
+        display: none;
+    } 
+    .login{
+        margin-left: 0px;
+    }
+    .popup-right {
+        display: none;
+    }
+    .popup-inner{
+        width: 70%;
+        height: 78%
+    }
+    .header__text{
+        padding: 1rem 0 4rem;
+    }
+    .calculate_section{
+        height:43em;
+    }
+    .box1,
+    .box2{
+        margin-left: 20%;
+    }
+    .sual{
+        left: 65%;
+    }
+    .sekil{
+        width: 320px;
+    }
+    .faq_box{
+        width: 100%;
+    }
+    .map-up h4, .map-up p{
+        margin-left: 20%;
+    }
+    .store-mobile{
+        display: none;
+    }
+    .store-box{
+        width: 45%;
+    }
+    .store-button{
+        margin-right: 0px;
+        width: 100%;
+    }
+}
+@media screen and (max-width: 375px){
+        .time-leftup{
+        display: none;
+    } 
+    .popup-right {
+        display: none;
+    }
+    .popup-inner{
+        width: 70%;
+        height: 78%
+    }
+    .header__text{
+        padding: 1rem 0 4rem;
+    }
+    .login{
+        width: 100px;
+    }
+    .calculate_section{
+        height:43em;
+    }
+    .sual{
+        left: 65%;
+    }
+    .sekil{
+        width: 300px;
+    }
+    .box1,
+    .box2{
+        margin-left: 30px;
+    }
+    .faq_box{
+        width: 100%;
+    }
+    .map-up h4, .map-up p{
+        margin-left: 5%;
+    }
+    .store-mobile{
+        display: none;
+    }
+    .store-box{
+        width: 45%;
+    }
+    .store-button{
+        margin-right: 0px;
+        width: 100%;
+    }
+    .containerr .card,
+    containerr{
+        width: 90%;
+        margin: 20px;
+    }
+}
+@media screen and (max-width: 360px){
+    .popup-right {
+        display: none;
+    }
+    .popup-inner{
+        width: 90%;
+        height: 76%
+    }
+    .header__text{
+        padding: 1rem 0 4rem;
+    }
+    .login{
+        width: 100px;
+    }
+     .box1,
+    .box2{
+        margin-left: 20px;
+    }
+     .containerr .card,
+    containerr{
+        width: 80%;
+        margin: 20px;
+        overflow: hidden;
+    }
+}
+
+
+
+
+
+

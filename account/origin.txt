@@ -1,0 +1,212 @@
+Uri: https://dynamex.az/az/signin.html
+File Name: C:\Downloaded Web Sites\dynamex.az\az\signin.html
+Content Type: text/html
+
+Uri: https://dynamex.az/css/bootstrap.css
+File Name: C:\Downloaded Web Sites\dynamex.az\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://dynamex.az/css/bootstrap-grid.css
+File Name: C:\Downloaded Web Sites\dynamex.az\css\bootstrap-grid.css
+Content Type: text/css
+
+Uri: https://dynamex.az/css/jquery.fancybox.css
+File Name: C:\Downloaded Web Sites\dynamex.az\css\jquery.fancybox.css
+Content Type: text/css
+
+Uri: https://dynamex.az/css/jquery.mCustomScrollbar.css
+File Name: C:\Downloaded Web Sites\dynamex.az\css\jquery.mCustomScrollbar.css
+Content Type: text/css
+
+Uri: https://dynamex.az/css/owl.carousel.css
+File Name: C:\Downloaded Web Sites\dynamex.az\css\owl.carousel.css
+Content Type: text/css
+
+Uri: https://dynamex.az/css/owl.theme.default.min.css
+File Name: C:\Downloaded Web Sites\dynamex.az\css\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://dynamex.az/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\dynamex.az\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://dynamex.az/css/select2.min.css
+File Name: C:\Downloaded Web Sites\dynamex.az\css\select2.min.css
+Content Type: text/css
+
+Uri: https://dynamex.az/css/jquery-ui-1.9.2.custom.css
+File Name: C:\Downloaded Web Sites\dynamex.az\css\jquery-ui-1.9.2.custom.css
+Content Type: text/css
+
+Uri: https://dynamex.az/css/bootstrap-datepicker.css
+File Name: C:\Downloaded Web Sites\dynamex.az\css\bootstrap-datepicker.css
+Content Type: text/css
+
+Uri: https://dynamex.az/css/bootstrap-datepicker.standalone.css
+File Name: C:\Downloaded Web Sites\dynamex.az\css\bootstrap-datepicker.standalone.css
+Content Type: text/css
+
+Uri: https://dynamex.az/css/bootstrap-datepicker3.css
+File Name: C:\Downloaded Web Sites\dynamex.az\css\bootstrap-datepicker3.css
+Content Type: text/css
+
+Uri: https://dynamex.az/css/default.css
+File Name: C:\Downloaded Web Sites\dynamex.az\css\default.css
+Content Type: text/css
+
+Uri: https://dynamex.az/bootstrap-select/dist/css/bootstrap-select.css
+File Name: C:\Downloaded Web Sites\dynamex.az\bootstrap-select\dist\css\bootstrap-select.css
+Content Type: text/css
+
+Uri: https://dynamex.az/css/style.css?v=1.54
+File Name: C:\Downloaded Web Sites\dynamex.az\css\style.css
+Content Type: text/css
+
+Uri: https://dynamex.az/css/responsive.css?v=1.9
+File Name: C:\Downloaded Web Sites\dynamex.az\css\responsive.css
+Content Type: text/css
+
+Uri: https://dynamex.az/favicon.png
+File Name: C:\Downloaded Web Sites\dynamex.az\favicon.png
+Content Type: image/png
+
+Uri: https://dynamex.az/az/signup.html
+File Name: C:\Downloaded Web Sites\dynamex.az\az\signup.html
+Content Type: text/html
+
+Uri: https://dynamex.az/az/menu/gizlilik-siyaseti-56.html
+File Name: C:\Downloaded Web Sites\dynamex.az\az\menu\gizlilik-siyaseti-56.html
+Content Type: text/html
+
+Uri: https://dynamex.az/az/menu/istifadeci-razilasmasi-57.html
+File Name: C:\Downloaded Web Sites\dynamex.az\az\menu\istifadeci-razilasmasi-57.html
+Content Type: text/html
+
+Uri: https://dynamex.az/js/jquery-latest.js
+File Name: C:\Downloaded Web Sites\dynamex.az\js\jquery-latest.js
+Content Type: application/javascript
+
+Uri: https://dynamex.az/images/logo.svg
+File Name: C:\Downloaded Web Sites\dynamex.az\images\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://dynamex.az/images/lang_az.png
+File Name: C:\Downloaded Web Sites\dynamex.az\images\lang_az.png
+Content Type: image/png
+
+Uri: https://dynamex.az/images/lang_en.png
+File Name: C:\Downloaded Web Sites\dynamex.az\images\lang_en.png
+Content Type: image/png
+
+Uri: https://dynamex.az/images/lang_ru.png
+File Name: C:\Downloaded Web Sites\dynamex.az\images\lang_ru.png
+Content Type: image/png
+
+Uri: https://dynamex.az/images/login_right.svg
+File Name: C:\Downloaded Web Sites\dynamex.az\images\login_right.svg
+Content Type: image/svg+xml
+
+Uri: https://dynamex.az/images/logo-white.svg
+File Name: C:\Downloaded Web Sites\dynamex.az\images\logo-white.svg
+Content Type: image/svg+xml
+
+Uri: https://dynamex.az/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\dynamex.az\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://dynamex.az/assets/a6b64c17/yii.js
+File Name: C:\Downloaded Web Sites\dynamex.az\assets\a6b64c17\yii.js
+Content Type: application/javascript
+
+Uri: https://dynamex.az/assets/a6b64c17/yii.validation.js
+File Name: C:\Downloaded Web Sites\dynamex.az\assets\a6b64c17\yii.validation.js
+Content Type: application/javascript
+
+Uri: https://dynamex.az/assets/a6b64c17/yii.activeForm.js
+File Name: C:\Downloaded Web Sites\dynamex.az\assets\a6b64c17\yii.activeForm.js
+Content Type: application/javascript
+
+Uri: https://kit.fontawesome.com/dda89fe92b.js
+File Name: C:\Downloaded Web Sites\dynamex.az\dda89fe92b.js
+Content Type: text/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\dynamex.az\ajax\libs\popper.js\1.16.0\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://dynamex.az/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\dynamex.az\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://dynamex.az/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\dynamex.az\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://dynamex.az/js/jquery.fancybox.js
+File Name: C:\Downloaded Web Sites\dynamex.az\js\jquery.fancybox.js
+Content Type: application/javascript
+
+Uri: https://dynamex.az/js/jquery.magnific-popup.js
+File Name: C:\Downloaded Web Sites\dynamex.az\js\jquery.magnific-popup.js
+Content Type: application/javascript
+
+Uri: https://dynamex.az/js/bootstrap-datepicker.js
+File Name: C:\Downloaded Web Sites\dynamex.az\js\bootstrap-datepicker.js
+Content Type: application/javascript
+
+Uri: https://dynamex.az/js/bootstrap-datepicker.az.min.js
+File Name: C:\Downloaded Web Sites\dynamex.az\js\bootstrap-datepicker.az.min.js
+Content Type: application/javascript
+
+Uri: https://dynamex.az/js/jquery.mCustomScrollbar.js
+File Name: C:\Downloaded Web Sites\dynamex.az\js\jquery.mCustomScrollbar.js
+Content Type: application/javascript
+
+Uri: https://dynamex.az/js/owl.carousel.js
+File Name: C:\Downloaded Web Sites\dynamex.az\js\owl.carousel.js
+Content Type: application/javascript
+
+Uri: https://dynamex.az/js/select2.full.min.js
+File Name: C:\Downloaded Web Sites\dynamex.az\js\select2.full.min.js
+Content Type: application/javascript
+
+Uri: https://dynamex.az/js/i18n/az.js
+File Name: C:\Downloaded Web Sites\dynamex.az\js\i18n\az.js
+Content Type: application/javascript
+
+Uri: https://dynamex.az/js/i18n/ru.js
+File Name: C:\Downloaded Web Sites\dynamex.az\js\i18n\ru.js
+Content Type: application/javascript
+
+Uri: https://dynamex.az/js/i18n/en.js
+File Name: C:\Downloaded Web Sites\dynamex.az\js\i18n\en.js
+Content Type: application/javascript
+
+Uri: https://dynamex.az/bootstrap-select/dist/js/bootstrap-select.js
+File Name: C:\Downloaded Web Sites\dynamex.az\bootstrap-select\dist\js\bootstrap-select.js
+Content Type: application/javascript
+
+Uri: https://dynamex.az/js/count-up.js
+File Name: C:\Downloaded Web Sites\dynamex.az\js\count-up.js
+Content Type: application/javascript
+
+Uri: https://dynamex.az/js/main.js?v=1.48
+File Name: C:\Downloaded Web Sites\dynamex.az\js\main.js
+Content Type: application/javascript
+
+Uri: https://dynamex.az/js/script.js?v=1.9
+File Name: C:\Downloaded Web Sites\dynamex.az\js\script.js
+Content Type: application/javascript
+
+Uri: https://dynamex.az/images/loader_logo.svg
+File Name: C:\Downloaded Web Sites\dynamex.az\images\loader_logo.svg
+Content Type: image/svg+xml
+
+Uri: https://dynamex.az/images/f_reg_img.svg
+File Name: C:\Downloaded Web Sites\dynamex.az\images\f_reg_img.svg
+Content Type: image/svg+xml
+
+Uri: https://www.youtube.com/embed/mn-va-DWDmk
+File Name: C:\Downloaded Web Sites\dynamex.az\embed\mn-va-DWDmk.html
+Content Type: text/html
+
